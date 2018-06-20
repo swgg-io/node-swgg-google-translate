@@ -16845,9 +16845,11 @@ instruction\n\
 \n\
 \n\
 \n\
+    # shDeployCustom\n\
     shDeployGithub\n\
-    shReadmeTest example.sh\n\
-    shReadmeTest example.js\n\
+    # shDeployHeroku\n\
+    # shNpmTestPublished\n\
+)}\n\
 ';
 
 
